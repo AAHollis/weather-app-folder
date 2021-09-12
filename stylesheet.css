@@ -32,6 +32,9 @@ section {
   margin: 20px auto;
   width: 60%;
 }
+p {
+  text-align: center;
+}
 .day {
   font-weight: bold;
 }
